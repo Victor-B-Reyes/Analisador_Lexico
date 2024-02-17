@@ -1,0 +1,1 @@
+x igual 1 sumar 2
